@@ -122,11 +122,14 @@ Gerekli Yazılım
 
 *Gerekli Kütüphaneler
 Terminal (Komut İstemi veya VS Code Terminali) üzerinden aşağıdaki komutu çalıştırarak gerekli kütüphaneler yüklenmelidir:
+
 ![Screenshot_6](https://github.com/user-attachments/assets/c46db54a-dda5-4c3d-ba27-e67abe63454c)
+
 Not: tkinter modülü Python ile birlikte gelir, ek bir kurulum gerektirmez.
 
 Uygulamanın Çalıştırılması
 Kod dosyasını (örneğin tarim_destek_sistemi.py) çalıştırmak için terminale şu komutu yazın:
+
 ![Screenshot_7](https://github.com/user-attachments/assets/b74ae94f-8595-4bd9-9065-fa696ad70fe8)
 
 Uygulama Özellikleri
