@@ -105,13 +105,18 @@ Bu proje, çiftçilerin tarımsal kararlarını desteklemek için pratik ve gör
 **TARIM DESTEK KARAR DESTEK SİSTEMİ - PROJE RAPORU**
 
 ---
-![5-kod-dosya-pdf](https://github.com/user-attachments/assets/81005d37-2b9c-47e6-be77-1221d87c7732)
-![4-kod-dosya-tarımpencere-pdf](https://github.com/user-attachments/assets/beffbcd2-e40e-4004-9b49-05dcc42cd120)
-![3-kod-dosya-tarımpencere-grafşk](https://github.com/user-attachments/assets/e152a3c9-14b9-4511-8426-26e34470ded0)
-![2-kod-dosya-tarım-pencere](https://github.com/user-attachments/assets/8babcdc9-62f8-4c35-a10e-00ac407e27a0)
-![1-kod-dosya-boş](https://github.com/user-attachments/assets/4d23621a-25a8-4e12-87ec-5145a71ae21e)
+
 
 **Hazırlayan:** \ Said Kaynarca 21430070044
 **Bölüm:** Mersin Üniversitesi - Bilişim Sistemleri ve Teknolojileri
 **Ders:** Bulanık Mantık
 **Yıl:** 2025
+
+![1-kod-dosya-boş](https://github.com/user-attachments/assets/ee24c2fa-6c53-4c6d-ace0-43d3f914b29a)
+![2-kod-dosya-tarım-pencere](https://github.com/user-attachments/assets/918328ef-b4b4-47ba-ba65-f101657301b7)
+![3-kod-dosya-tarımpencere-grafşk](https://github.com/user-attachments/assets/8c78207d-8812-4885-a7a2-d49e04c92c14)
+![4-kod-dosya-tarımpencere-pdf](https://github.com/user-attachments/assets/7046f6fc-adda-436f-9a18-ba7b28c7c85a)
+![5-kod-dosya-pdf](https://github.com/user-attachments/assets/65d37ee4-fe4c-4716-b1be-09be48ab6d8a)
+
+
+
