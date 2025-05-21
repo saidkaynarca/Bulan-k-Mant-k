@@ -116,23 +116,24 @@ Bu proje, çiftçilerin tarımsal kararlarını desteklemek için pratik ve gör
 ---
 ### 12. Kurulum ve Çalıştırma Talimatları
 Bu proje Python diliyle geliştirilmiştir. Uygulamayı çalıştırmak isteyen bir kullanıcı aşağıdaki adımları takip etmelidir:
-Gerekli Yazılım
+
+## Gerekli Yazılım
 - Python 3.8 veya üzeri bir sürüm
 - pip (Python paket yöneticisi)
 
-* Gerekli Kütüphaneler
+## Gerekli Kütüphaneler
 Terminal (Komut İstemi veya VS Code Terminali) üzerinden aşağıdaki komutu çalıştırarak gerekli kütüphaneler yüklenmelidir:
 
 ![Screenshot_6](https://github.com/user-attachments/assets/c46db54a-dda5-4c3d-ba27-e67abe63454c)
 
 Not: tkinter modülü Python ile birlikte gelir, ek bir kurulum gerektirmez.
 
-Uygulamanın Çalıştırılması
+## Uygulamanın Çalıştırılması
 Kod dosyasını (örneğin tarim_destek_sistemi.py) çalıştırmak için terminale şu komutu yazın:
 
 ![Screenshot_7](https://github.com/user-attachments/assets/b74ae94f-8595-4bd9-9065-fa696ad70fe8)
 
-Uygulama Özellikleri
+## Uygulama Özellikleri
 - Kullanıcı, 0–10 arasında değerler girerek 5 çevresel faktörü tanımlar.
 
 - “HESAPLA” butonuna basıldığında sistem:
