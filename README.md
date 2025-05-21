@@ -118,7 +118,7 @@ Bu proje, çiftçilerin tarımsal kararlarını desteklemek için pratik ve gör
 Bu proje Python diliyle geliştirilmiştir. Uygulamayı çalıştırmak isteyen bir kullanıcı aşağıdaki adımları takip etmelidir:
 Gerekli Yazılım
 - Python 3.8 veya üzeri bir sürüm
--pip (Python paket yöneticisi)
+- pip (Python paket yöneticisi)
 
 *Gerekli Kütüphaneler
 Terminal (Komut İstemi veya VS Code Terminali) üzerinden aşağıdaki komutu çalıştırarak gerekli kütüphaneler yüklenmelidir:
