@@ -120,7 +120,7 @@ Gerekli Yazılım
 - Python 3.8 veya üzeri bir sürüm
 - pip (Python paket yöneticisi)
 
-*Gerekli Kütüphaneler
+* Gerekli Kütüphaneler
 Terminal (Komut İstemi veya VS Code Terminali) üzerinden aşağıdaki komutu çalıştırarak gerekli kütüphaneler yüklenmelidir:
 
 ![Screenshot_6](https://github.com/user-attachments/assets/c46db54a-dda5-4c3d-ba27-e67abe63454c)
