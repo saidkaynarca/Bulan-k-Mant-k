@@ -104,14 +104,6 @@ Sonuçlar ayrı bir pencerede pasta grafiği şeklinde gösterilir. Grafik 3 ç�
 Bu proje, çiftçilerin tarımsal kararlarını desteklemek için pratik ve görsel bir aracı sunar. Kullanıcı dostu arayüzü, grafiksel gösterimi ve otomatik raporlama sistemi ile sahada kullanılabilirliği yüksektir.
 
 ---
-
-**Hazırlayan:** \[Senin Adın]
-**Bölüm:** Mersin Üniversitesi - Bilişim Sistemleri ve Teknolojileri
-**Ders:** Bulanık Mantık
-**Yıl:** 2025
-**TARIM DESTEK KARAR DESTEK SİSTEMİ - PROJE RAPORU**
-
----
 ### 11. Kod ve Uygulama Görselleri
 
 
